@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "985680e19f3d"
   },
   "options": {
     "autoRead": false,
@@ -10,11 +10,11 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
+    "packname": "ItsmeDann",
     "author": "https://zenzapi.xyz"
   },
   "owner": [
-    "62812xxx"
+    "6288221400832"
   ],
   "timezone": "Asia/Jakarta",
   "footer": "Powered by https://zenzapis.xyz"
